@@ -1,5 +1,7 @@
 # Shopify_sales_dataset
 SQL and Excel dashboard project analyzing Shopify sales data to generate business insights through KPIs, interactive visualizations, and data-driven reporting. 
+
+
 📊 Shopify Sales Analytics Dashboard | SQL + Microsoft Excel
 
 An end-to-end Data Analytics project that transforms raw Shopify sales data into actionable business insights using SQL for data analysis and Microsoft Excel for interactive dashboard creation.
